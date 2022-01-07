@@ -20,7 +20,7 @@ Git 有什么特点？简单来说就是：高端大气上档次！
 
  
 
-![img](http://wiki.jikexueyuan.com/project/git-tutorial/images/git0.jpg)
+![word](./Assert/word.png)
 
  
 
